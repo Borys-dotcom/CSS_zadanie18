@@ -1,0 +1,20 @@
+body{
+    background-color: #faebd6;
+}
+
+#naglowek{
+    color: #ff0000;
+    font-size: 48px;
+}
+
+p{
+    font-size: 32px;
+}
+
+#paragraf1{
+    color: #a42423;
+}
+
+#paragraf2{
+    color: #00008f;
+}
